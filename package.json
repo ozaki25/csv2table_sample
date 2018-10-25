@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "ozaki25",
   "license": "MIT",
+  "scripts": {
+    "start:server": "node server/app.js"
+  },
   "dependencies": {
     "express": "^4.16.4"
   }
